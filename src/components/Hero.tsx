@@ -20,16 +20,12 @@ export default function Hero(): JSX.Element {
 function HeroContent(): JSX.Element {
   return (
     <div className="md:left-[10%] max-w-6xl m-auto absolute p-4">
-      <p>Panoptic</p>
+      <p>Aloha</p>
       <h1 className="font-bold text-5xl md:text-7xl drop-shadow-2xl">
-        Private Resorts &amp; Paradises
+        Welcome to Hawaii
       </h1>
-      <p className="max-w-xl drop-shadow-2xl py-2 text-xl">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum facere
-        incidunt inventore quas sint dolore hic laudantium quis maxime quam.
-      </p>
       <button type="button" className="bg-white text-black m-1 font-bold">
-        RSVP Now
+        Book a trip
       </button>
     </div>
   );

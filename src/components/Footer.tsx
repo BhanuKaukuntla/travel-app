@@ -14,7 +14,7 @@ const legal = ["Claims", "Conditions", "Policies", "Privacy", "Terms"] as const;
 // Footer component
 export default function Footer(): JSX.Element {
   return (
-    <div className="w-full mt-24 bg-blue-900 text-blue-50 py-2 px-2">
+    <div className="w-full mt-24 bg-black text-blue-50 py-2 px-2">
       <TopFooter />
       <BottomFooter />
     </div>
@@ -100,7 +100,7 @@ function BottomFooter(): JSX.Element {
 function Copyright(): JSX.Element {
   return (
     <p className="p-4">
-      &copy;{new Date().getFullYear()} Excursions All Rights Reserved
+      &copy;{new Date().getFullYear()} Aloha All Rights Reserved
     </p>
   );
 }

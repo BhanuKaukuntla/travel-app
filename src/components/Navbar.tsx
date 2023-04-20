@@ -32,7 +32,7 @@ function Navbar(): JSX.Element {
 
   return (
     <div className="absolute w-full flex justify-between p-4 items-center">
-      <h1 className="text-white font-bold text-2xl z-20">Excursions</h1>
+      <h1 className="text-white font-bold text-2xl z-20">Aloha</h1>
       <div className="z-20 text-white cursor-pointer">
         <HiMenuAlt3 onClick={handleNav} size={25} />
       </div>

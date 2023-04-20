@@ -16,16 +16,18 @@ function PlanRightSide(): JSX.Element {
         Plan Your Next Trip
       </span>
       <p className="text-2xl py-6">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil in ab
-        architecto? Impedit facilis, natus consectetur molestias porro minima
-        laudantium. Nisi atque cumque beatae praesentium ducimus maiores neque
-        iusto aliquid.
+        Hawaii is a state in the Western United States, about 2,000 miles from
+        the U.S. mainland in the Pacific Ocean. It is the only U.S. state
+        outside North America, the only state that is an archipelago, and the
+        only state in the tropics.
       </p>
       <p className="pb-6">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et asperiores
-        veniam odit quis? Dolorum magnam excepturi dignissimos alias deleniti
-        eveniet nihil! Eos, non modi beatae architecto consequuntur asperiores
-        fuga adipisci.
+        Hawaii, constituent state of the United States of America. Hawaii
+        (Hawaiian: Hawai‘i) became the 50th U.S. state on August 21, 1959.
+        Hawaii is a group of volcanic islands in the central Pacific Ocean. The
+        islands lie 2,397 miles (3,857 km) from San Francisco, California, to
+        the east and 5,293 miles (8,516 km) from Manila, in the Philippines, to
+        the west. The capital is Honolulu, located on the island of Oahu.
       </p>
       <div>
         <button
@@ -38,7 +40,7 @@ function PlanRightSide(): JSX.Element {
           type="button"
           className="bg-black text-white border-black hover:shadow-xl"
         >
-          Reserve Your Excursion
+          Book Trip
         </button>
       </div>
     </div>
